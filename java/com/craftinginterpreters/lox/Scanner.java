@@ -101,7 +101,7 @@ class Scanner {
       case '"': string(); break;
 
       default:
-        if (isDigit()) {
+        if (isDigit(c)) {
           number();
         } else if (isAlpha(c)) {
           identifier();
