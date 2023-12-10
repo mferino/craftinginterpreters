@@ -1,10 +1,12 @@
-# Java based interpreter named lox
+# Crafting Interpreters
 
-## File Structure
+## LOX (Java based interpreter - PART 1)
 
-../java/com/craftinginterpreters/lox
+### File Structure
 
-## How To Run
+/java/com/craftinginterpreters/lox
+
+### How To Run
 
 To compile (depending on if you need tools run or not): navigate to the java directory
 
